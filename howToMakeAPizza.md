@@ -1,11 +1,11 @@
 Pizza de Gabriela
-1.conseguir ingredientes 
-2.preparar la salsa de tomate
-3.preparar la masa de pizza
-4.formacion de base de la pizza 
-5.precocer la masa 
-6.agregar ingredientes
-7.hornear nuevamente con ingredientes agregados
+1. Conseguir ingredientes 
+2. Preparar la salsa de tomate
+3. Preparar la masa de pizza
+4. Formacion de base de la pizza 
+5. Precocer la masa 
+6. Agregar ingredientes
+7. Hornear nuevamente con ingredientes agregados
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Pizza de Juan Henriquez
 1. Decidir el sabor de la pizza que quiero preparar y listar los ingredientes.
@@ -17,6 +17,8 @@ Pizza de Juan Henriquez
 7. Añadir a la masa
 8. Meter al horno
 9. Disfrutar
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pizza de Daniel Silva
 1. Preparo la mezcla de la masa de la pizza 
 2. Lavo los vegetales 
 3. Junto los ingredientes para hacer la preparacion 
